@@ -130,3 +130,13 @@ Licensed under **CC BY-NC-ND 4.0**
 ---
 
 🔥 **Dominate PvP with smart utilities** 🔥
+
+---
+
+## ⚠️ Disclaimer
+
+This mod is a **utility-based quality-of-life mod** and is **not a hack or cheat**.
+
+It does not modify game mechanics unfairly or provide any form of illegal advantage. All features are designed to automate legitimate in-game actions and remain within normal gameplay limits.
+
+Use of this mod should comply with the rules of the server you are playing on.
