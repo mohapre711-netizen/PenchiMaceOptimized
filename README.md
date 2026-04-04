@@ -1,6 +1,6 @@
 # 🛡️ PenchiMaceOptimized+
 
-**Advanced Mace PvP Automation Mod for Minecraft Fabric**  
+**Advanced Mace PvP utilities Mod for Minecraft Fabric**  
 Built for competitive players who want **speed, precision, and zero delay**.
 
 ---
@@ -48,7 +48,7 @@ https://modrinth.com/mod/penchi-maceoptimized
 
 ---
 
-### 🪂 Elytra Automation
+### 🪂 Elytra utilities
 - Auto chestplate swap on damage  
 - Auto rocket / wind charge selection  
 - Glide end weapon swap (Mace / Sword)  
@@ -129,4 +129,4 @@ Licensed under **CC BY-NC-ND 4.0**
 
 ---
 
-🔥 **Dominate PvP with smart automation** 🔥
+🔥 **Dominate PvP with smart utilities** 🔥
